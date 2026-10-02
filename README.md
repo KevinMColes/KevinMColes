@@ -8,6 +8,7 @@ Technology can be operating exactly as intended while the decisions shaping it b
 
 ## Free resources for leadership teams
 
+- **[AI Use Decision Record](https://github.com/KevinMColes/ai-use-decision-record):** a leadership record of what your company has actually decided about AI. Decide the use, not the tool: inventory, risk tiers, red flags, agent controls, and a one page AI register. CC BY 4.0.
 - **[Vendor Dependency Review](https://github.com/KevinMColes/vendor-dependency-review):** a leadership review for the vendors your business cannot run without. Concentration map, red flags, decision rules, and a one page board summary. CC BY 4.0.
 
 ## Elsewhere
