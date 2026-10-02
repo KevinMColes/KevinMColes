@@ -6,10 +6,13 @@ Kevin M. Coles is the founder of Coles Technical Group, a technology governance 
 
 Technology can be operating exactly as intended while the decisions shaping it become increasingly consequential. That is where I work.
 
-**Writing:** https://substack.com/@kevinmcoles
+## Free resources for leadership teams
 
-**Company:** https://colestechnicalgroup.com
+- **[Vendor Dependency Review](https://github.com/KevinMColes/vendor-dependency-review):** a leadership review for the vendors your business cannot run without. Concentration map, red flags, decision rules, and a one page board summary. CC BY 4.0.
 
-**LinkedIn:** https://www.linkedin.com/in/kevinmcoles
+## Elsewhere
 
-**Crunchbase:** https://www.crunchbase.com/person/kevin-m-coles
+- **Writing:** [substack.com/@kevinmcoles](https://substack.com/@kevinmcoles)
+- **Company:** [colestechnicalgroup.com](https://colestechnicalgroup.com)
+- **LinkedIn:** [linkedin.com/in/kevinmcoles](https://www.linkedin.com/in/kevinmcoles)
+- **Crunchbase:** [crunchbase.com/person/kevin-m-coles](https://www.crunchbase.com/person/kevin-m-coles)
