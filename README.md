@@ -1,16 +1,15 @@
-## Hi there 👋
+# Kevin M. Coles
 
-<!--
-**KevinMColes/KevinMColes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & Principal | Fractional CIO/CTO | Coles Technical Group**
 
-Here are some ideas to get you started:
+Kevin M. Coles is the founder of Coles Technical Group, a technology governance and fractional CIO/CTO consulting firm based in Phoenix, Arizona.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technology can be operating exactly as intended while the decisions shaping it become increasingly consequential. That is where I work.
+
+**Writing:** https://substack.com/@kevinmcoles
+
+**Company:** https://colestechnicalgroup.com
+
+**LinkedIn:** https://www.linkedin.com/in/kevinmcoles
+
+**Crunchbase:** https://www.crunchbase.com/person/kevin-m-coles
