@@ -8,7 +8,7 @@ Technology can be operating exactly as intended while the decisions shaping it b
 
 My memoir, The One Who Would Be Okay, comes out January 12, 2027. [Pre-order on Amazon](https://www.amazon.com/dp/B0HPWVGW3B)
 
-Writing: [Decided by Accident](https://www.linkedin.com/newsletters/7514068062153928704/) · [Medium](https://medium.com/@KevinMColes) · [Substack](https://substack.com/@kevinmcoles)
+Writing: [Decided by Accident](https://www.linkedin.com/newsletters/7514068062153928704/) · [Medium](https://medium.com/@KevinMColes) · [Substack](https://substack.com/@kevinmcoles) · [Dev.to](https://dev.to/kevinmcoles)
 
 ## Free resources for leadership teams
 
