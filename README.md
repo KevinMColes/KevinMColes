@@ -18,5 +18,6 @@ Writing: [Decided by Accident](https://www.linkedin.com/newsletters/751406806215
 ## Elsewhere
 
 - **Company:** [colestechnicalgroup.com](https://colestechnicalgroup.com)
+- **Raising Tactical Daughters:** [raisingtacticaldaughters.com](https://raisingtacticaldaughters.com)
 - **LinkedIn:** [linkedin.com/in/kevinmcoles](https://www.linkedin.com/in/kevinmcoles)
 - **Crunchbase:** [crunchbase.com/person/kevin-m-coles](https://www.crunchbase.com/person/kevin-m-coles)
